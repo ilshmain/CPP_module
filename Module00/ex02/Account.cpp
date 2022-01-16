@@ -36,8 +36,8 @@ void Account::_displayTimestamp() {
 					 << now->tm_sec << "] ";
 }
 
-Account::Account(int initial_deposit) : _amount(initial_deposit),
-										_accountIndex(_nbAccounts),
+Account::Account(int initial_deposit) : _accountIndex(_nbAccounts),
+										_amount(initial_deposit),
 										_nbDeposits(0),
 										_nbWithdrawals(0)
 {
@@ -82,5 +82,33 @@ void Account::makeDeposit(int deposit) {
 			  << std::endl;
 }
 
-Account::~Account() {}
+bool Account::makeWithdrawal(int withdrawal) {
+	_displayTimestamp();
+	if (_amount < withdrawal) {
+		std::cout << "index:" << _accountIndex << ";"
+				  << "p_amount:" << _amount << ";"
+				  << "withdrawal:"
+				  << "refused"
+		<< std::endl;
+		return false;
+	}
+	std::cout << "index:" << _accountIndex << ";"
+			  << "p_amount:" << _amount << ";"
+			  << "withdrawal:" << withdrawal << ";";
+	_amount -= withdrawal;
+	_totalAmount -= withdrawal;
+	_nbWithdrawals += 1;
+	_totalNbWithdrawals++;
+	std::cout << "amount:" << _amount << ";"
+			  << "nb_withdrawal:" << _nbWithdrawals << ";"
+			  << std::endl;
+	return true;
+}
+
+Account::~Account() {
+	_displayTimestamp();
+	std::cout << "index:" << _accountIndex << ";"
+			  << "amount:" << _amount << ";"
+			  << "closed" << std::endl;
+}
 

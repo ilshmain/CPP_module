@@ -1,11 +1,12 @@
-SRCS			= Account.cpp test.cpp
+SRCS			= main.cpp Karen.cpp
+
 OBJS			= $(SRCS:.cpp=.o)
 
 CXX				= c++
 RM				= rm -f
 CXXFLAGS		= -Wall -Wextra -Werror
 
-NAME			= database
+NAME			= karen
 
 all:			$(NAME)
 

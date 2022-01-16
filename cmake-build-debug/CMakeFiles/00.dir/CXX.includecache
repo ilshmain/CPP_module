@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fmint/CPP_Module/Module01/ex06/Karen.cpp
+Karen.hpp
+/Users/fmint/CPP_Module/Module01/ex06/Karen.hpp
+
+/Users/fmint/CPP_Module/Module01/ex06/Karen.hpp
+iostream
+-
+
+/Users/fmint/CPP_Module/Module01/ex06/main.cpp
+Karen.hpp
+/Users/fmint/CPP_Module/Module01/ex06/Karen.hpp
+

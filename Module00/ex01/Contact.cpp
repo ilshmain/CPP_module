@@ -17,11 +17,11 @@ void Contact::setInformation(int index) {
 	std::string str;
 	this->index = index + 1;
 
-	firstName = getInput("Enter first name:");
-	lastName = getInput("Enter last name:");
-	nik = getInput("Enter nik:");
-	phone = getInput("Enter phone number:");
-	secret = getInput("Enter secret:");
+	this->firstName = getInput("Enter first name:");
+	this->lastName = getInput("Enter last name:");
+	this->nik = getInput("Enter nik:");
+	this->phone = getInput("Enter phone number:");
+	this->secret = getInput("Enter secret:");
 }
 
 void Contact::checkLenStr(std::string str) {

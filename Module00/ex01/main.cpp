@@ -14,5 +14,8 @@ int main()
 			phoneBook.add();
 		else if (str == "SEARCH")
 			phoneBook.search();
+		else {
+			std::cout << "Please enter the correct field" <<std::endl;
+		}
 	}
 }

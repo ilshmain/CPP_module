@@ -1,11 +1,11 @@
-SRCS			= Account.cpp test.cpp
+SRCS			= main.cpp
 OBJS			= $(SRCS:.cpp=.o)
 
 CXX				= c++
 RM				= rm -f
 CXXFLAGS		= -Wall -Wextra -Werror
 
-NAME			= database
+NAME			= string
 
 all:			$(NAME)
 
