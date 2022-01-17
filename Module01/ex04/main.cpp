@@ -34,10 +34,12 @@ void replaceFunc(std::ifstream *inf, std::ofstream *outf, std::string find, std:
 }
 
 int main(int argc, char **argv) {
-	std::string one = argv[1];
-	std::string two = ".replace";
+	std::string one;
+	std::string two;
 
 	if (argc == 4) {
+		one =  = argv[1];
+		two = ".replace";
 		std::ifstream inf(argv[1]);
 		std::ofstream outf(one + two);
 		checker(&inf, &outf);

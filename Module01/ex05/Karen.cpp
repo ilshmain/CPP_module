@@ -40,7 +40,5 @@ void Karen::complain(std::string level) {
 			exit(1);
 		}
 	}
-	for (;i < 4; i++) {
-		(this->*fcnPtr[i])();
-	}
+	(this->*fcnPtr[i])();
 }
