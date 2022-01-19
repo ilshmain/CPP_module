@@ -40,6 +40,8 @@ void PhoneBook::search() {
 	std::cout << "Enter an index contact: ";
 	while (run) {
 		std::getline(std::cin, index);
+		if (std::cin.eof())
+			exit(0);
 		try {
 			value = std::stoi(index);
 			if (value < 9 && (((value <= this->count && value > 0) || this->size == 1))) {
