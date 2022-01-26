@@ -6,15 +6,43 @@
 
 #IncludeRegexTransform: 
 
-/Users/fmint/CPP_Module/Module01/ex06/Karen.cpp
-Karen.hpp
-/Users/fmint/CPP_Module/Module01/ex06/Karen.hpp
-
-/Users/fmint/CPP_Module/Module01/ex06/Karen.hpp
+/Users/fmint/CPP_Module/Module04/ex00/Animal.hpp
 iostream
 -
 
-/Users/fmint/CPP_Module/Module01/ex06/main.cpp
-Karen.hpp
-/Users/fmint/CPP_Module/Module01/ex06/Karen.hpp
+/Users/fmint/CPP_Module/Module04/ex00/Cat.hpp
+Animal.hpp
+/Users/fmint/CPP_Module/Module04/ex00/Animal.hpp
+
+/Users/fmint/CPP_Module/Module04/ex00/Dog.hpp
+Animal.hpp
+/Users/fmint/CPP_Module/Module04/ex00/Animal.hpp
+
+/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.cpp
+WrongAnimal.hpp
+/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.hpp
+
+/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.hpp
+iostream
+-
+
+/Users/fmint/CPP_Module/Module04/ex00/WrongCat.cpp
+WrongCat.hpp
+/Users/fmint/CPP_Module/Module04/ex00/WrongCat.hpp
+
+/Users/fmint/CPP_Module/Module04/ex00/WrongCat.hpp
+WrongAnimal.hpp
+/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.hpp
+
+/Users/fmint/CPP_Module/Module04/ex00/main.cpp
+Animal.hpp
+/Users/fmint/CPP_Module/Module04/ex00/Animal.hpp
+Cat.hpp
+/Users/fmint/CPP_Module/Module04/ex00/Cat.hpp
+Dog.hpp
+/Users/fmint/CPP_Module/Module04/ex00/Dog.hpp
+WrongAnimal.hpp
+/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.hpp
+WrongCat.hpp
+/Users/fmint/CPP_Module/Module04/ex00/WrongCat.hpp
 

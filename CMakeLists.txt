@@ -26,4 +26,23 @@ set(CMAKE_CXX_STANDARD 98)
 #        Module01/ex03/Weapon.cpp
 #        Module01/ex03/Weapon.hpp)
 
-add_executable(00 Module01/ex06/main.cpp Module01/ex06/Karen.cpp Module01/ex06/Karen.hpp)
+
+#add_executable(00 Module03/ex002/ClapTrap.cpp
+#        Module03/ex002/ClapTrap.hpp
+#        Module03/ex002/FragTrap.cpp
+#        Module03/ex002/FragTrap.hpp
+#        Module03/ex002/main.cpp
+#        Module03/ex002/ScavTrap.cpp
+#        Module03/ex002/ScavTrap.hpp)
+
+add_executable(00  Module04/ex00/Animal.cpp
+        Module04/ex00/Animal.hpp
+        Module04/ex00/Dog.cpp
+        Module04/ex00/Dog.hpp
+        Module04/ex00/Cat.cpp
+        Module04/ex00/Cat.hpp
+        Module04/ex00/WrongAnimal.cpp
+        Module04/ex00/WrongAnimal.hpp
+        Module04/ex00/WrongCat.cpp
+        Module04/ex00/WrongCat.hpp
+        Module04/ex00/main.cpp)

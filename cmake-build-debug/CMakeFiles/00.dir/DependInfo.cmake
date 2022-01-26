@@ -8,8 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/fmint/CPP_Module/Module01/ex06/Karen.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module01/ex06/Karen.cpp.o"
-  "/Users/fmint/CPP_Module/Module01/ex06/main.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module01/ex06/main.cpp.o"
+  "/Users/fmint/CPP_Module/Module04/ex00/Animal.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o"
+  "/Users/fmint/CPP_Module/Module04/ex00/Cat.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o"
+  "/Users/fmint/CPP_Module/Module04/ex00/Dog.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o"
+  "/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o"
+  "/Users/fmint/CPP_Module/Module04/ex00/WrongCat.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o"
+  "/Users/fmint/CPP_Module/Module04/ex00/main.cpp" "/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles/00.dir/Module04/ex00/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

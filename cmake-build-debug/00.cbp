@@ -80,13 +80,37 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/fmint/CPP_Module/Module01/ex06/Karen.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Animal.cpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module01/ex06/Karen.hpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Animal.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module01/ex06/main.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Cat.cpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Cat.hpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Dog.cpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Dog.hpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.cpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.hpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongCat.cpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongCat.hpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/main.cpp">
 			<Option target="00"/>
 		</Unit>
 		<Unit filename="/Users/fmint/CPP_Module/CMakeLists.txt">
