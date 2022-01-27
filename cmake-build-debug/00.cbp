@@ -80,37 +80,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Animal.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/AMateria.cpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Animal.hpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/AMateria.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Cat.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/Character.cpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Cat.hpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/Character.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Dog.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/Cure.cpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/Dog.hpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/Cure.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/ICharacter.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.hpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/IMateriaSource.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongCat.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/Ice.cpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/WrongCat.hpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/Ice.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module04/ex00/main.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/MateriaSource.cpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/MateriaSource.hpp">
+			<Option target="00"/>
+		</Unit>
+		<Unit filename="/Users/fmint/CPP_Module/Module04/ex03/main.cpp">
 			<Option target="00"/>
 		</Unit>
 		<Unit filename="/Users/fmint/CPP_Module/CMakeLists.txt">

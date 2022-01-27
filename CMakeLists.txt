@@ -35,14 +35,19 @@ set(CMAKE_CXX_STANDARD 98)
 #        Module03/ex002/ScavTrap.cpp
 #        Module03/ex002/ScavTrap.hpp)
 
-add_executable(00  Module04/ex00/Animal.cpp
-        Module04/ex00/Animal.hpp
-        Module04/ex00/Dog.cpp
-        Module04/ex00/Dog.hpp
-        Module04/ex00/Cat.cpp
-        Module04/ex00/Cat.hpp
-        Module04/ex00/WrongAnimal.cpp
-        Module04/ex00/WrongAnimal.hpp
-        Module04/ex00/WrongCat.cpp
-        Module04/ex00/WrongCat.hpp
-        Module04/ex00/main.cpp)
+add_executable(00 Module04/ex03/main.cpp Module04/ex03/IMateriaSource.hpp Module04/ex03/ICharacter.hpp Module04/ex03/AMateria.cpp Module04/ex03/AMateria.hpp Module04/ex03/MateriaSource.cpp Module04/ex03/MateriaSource.hpp Module04/ex03/Ice.cpp Module04/ex03/Ice.hpp Module04/ex03/Cure.cpp Module04/ex03/Cure.hpp Module04/ex03/Character.cpp Module04/ex03/Character.hpp)
+
+#add_executable(00
+#        Module04/ex02/Animal.cpp
+#        Module04/ex02/Animal.hpp
+#        Module04/ex02/Brain.cpp
+#        Module04/ex02/Brain.hpp
+#        Module04/ex02/Cat.cpp
+#        Module04/ex02/Cat.hpp
+#        Module04/ex02/Dog.cpp
+#        Module04/ex02/Dog.hpp
+#        Module04/ex02/main.cpp
+#        Module04/ex02/WrongAnimal.cpp
+#        Module04/ex02/WrongAnimal.hpp
+#        Module04/ex02/WrongCat.cpp
+#        Module04/ex02/WrongCat.hpp)

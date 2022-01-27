@@ -66,102 +66,102 @@ include CMakeFiles/00.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/00.dir/flags.make
 
-CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o: CMakeFiles/00.dir/flags.make
-CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o: ../Module04/ex00/Animal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o -c /Users/fmint/CPP_Module/Module04/ex00/Animal.cpp
+CMakeFiles/00.dir/Module04/ex03/main.cpp.o: CMakeFiles/00.dir/flags.make
+CMakeFiles/00.dir/Module04/ex03/main.cpp.o: ../Module04/ex03/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/00.dir/Module04/ex03/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex03/main.cpp.o -c /Users/fmint/CPP_Module/Module04/ex03/main.cpp
 
-CMakeFiles/00.dir/Module04/ex00/Animal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex00/Animal.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex00/Animal.cpp > CMakeFiles/00.dir/Module04/ex00/Animal.cpp.i
+CMakeFiles/00.dir/Module04/ex03/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex03/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex03/main.cpp > CMakeFiles/00.dir/Module04/ex03/main.cpp.i
 
-CMakeFiles/00.dir/Module04/ex00/Animal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex00/Animal.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex00/Animal.cpp -o CMakeFiles/00.dir/Module04/ex00/Animal.cpp.s
+CMakeFiles/00.dir/Module04/ex03/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex03/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex03/main.cpp -o CMakeFiles/00.dir/Module04/ex03/main.cpp.s
 
-CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o: CMakeFiles/00.dir/flags.make
-CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o: ../Module04/ex00/Dog.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o -c /Users/fmint/CPP_Module/Module04/ex00/Dog.cpp
+CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.o: CMakeFiles/00.dir/flags.make
+CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.o: ../Module04/ex03/AMateria.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.o -c /Users/fmint/CPP_Module/Module04/ex03/AMateria.cpp
 
-CMakeFiles/00.dir/Module04/ex00/Dog.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex00/Dog.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex00/Dog.cpp > CMakeFiles/00.dir/Module04/ex00/Dog.cpp.i
+CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex03/AMateria.cpp > CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.i
 
-CMakeFiles/00.dir/Module04/ex00/Dog.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex00/Dog.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex00/Dog.cpp -o CMakeFiles/00.dir/Module04/ex00/Dog.cpp.s
+CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex03/AMateria.cpp -o CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.s
 
-CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o: CMakeFiles/00.dir/flags.make
-CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o: ../Module04/ex00/Cat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o -c /Users/fmint/CPP_Module/Module04/ex00/Cat.cpp
+CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.o: CMakeFiles/00.dir/flags.make
+CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.o: ../Module04/ex03/MateriaSource.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.o -c /Users/fmint/CPP_Module/Module04/ex03/MateriaSource.cpp
 
-CMakeFiles/00.dir/Module04/ex00/Cat.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex00/Cat.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex00/Cat.cpp > CMakeFiles/00.dir/Module04/ex00/Cat.cpp.i
+CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex03/MateriaSource.cpp > CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.i
 
-CMakeFiles/00.dir/Module04/ex00/Cat.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex00/Cat.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex00/Cat.cpp -o CMakeFiles/00.dir/Module04/ex00/Cat.cpp.s
+CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex03/MateriaSource.cpp -o CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.s
 
-CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o: CMakeFiles/00.dir/flags.make
-CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o: ../Module04/ex00/WrongAnimal.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o -c /Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.cpp
+CMakeFiles/00.dir/Module04/ex03/Ice.cpp.o: CMakeFiles/00.dir/flags.make
+CMakeFiles/00.dir/Module04/ex03/Ice.cpp.o: ../Module04/ex03/Ice.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/00.dir/Module04/ex03/Ice.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex03/Ice.cpp.o -c /Users/fmint/CPP_Module/Module04/ex03/Ice.cpp
 
-CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.cpp > CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.i
+CMakeFiles/00.dir/Module04/ex03/Ice.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex03/Ice.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex03/Ice.cpp > CMakeFiles/00.dir/Module04/ex03/Ice.cpp.i
 
-CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex00/WrongAnimal.cpp -o CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.s
+CMakeFiles/00.dir/Module04/ex03/Ice.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex03/Ice.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex03/Ice.cpp -o CMakeFiles/00.dir/Module04/ex03/Ice.cpp.s
 
-CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o: CMakeFiles/00.dir/flags.make
-CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o: ../Module04/ex00/WrongCat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o -c /Users/fmint/CPP_Module/Module04/ex00/WrongCat.cpp
+CMakeFiles/00.dir/Module04/ex03/Cure.cpp.o: CMakeFiles/00.dir/flags.make
+CMakeFiles/00.dir/Module04/ex03/Cure.cpp.o: ../Module04/ex03/Cure.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/00.dir/Module04/ex03/Cure.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex03/Cure.cpp.o -c /Users/fmint/CPP_Module/Module04/ex03/Cure.cpp
 
-CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex00/WrongCat.cpp > CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.i
+CMakeFiles/00.dir/Module04/ex03/Cure.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex03/Cure.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex03/Cure.cpp > CMakeFiles/00.dir/Module04/ex03/Cure.cpp.i
 
-CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex00/WrongCat.cpp -o CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.s
+CMakeFiles/00.dir/Module04/ex03/Cure.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex03/Cure.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex03/Cure.cpp -o CMakeFiles/00.dir/Module04/ex03/Cure.cpp.s
 
-CMakeFiles/00.dir/Module04/ex00/main.cpp.o: CMakeFiles/00.dir/flags.make
-CMakeFiles/00.dir/Module04/ex00/main.cpp.o: ../Module04/ex00/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/00.dir/Module04/ex00/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex00/main.cpp.o -c /Users/fmint/CPP_Module/Module04/ex00/main.cpp
+CMakeFiles/00.dir/Module04/ex03/Character.cpp.o: CMakeFiles/00.dir/flags.make
+CMakeFiles/00.dir/Module04/ex03/Character.cpp.o: ../Module04/ex03/Character.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/00.dir/Module04/ex03/Character.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/00.dir/Module04/ex03/Character.cpp.o -c /Users/fmint/CPP_Module/Module04/ex03/Character.cpp
 
-CMakeFiles/00.dir/Module04/ex00/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex00/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex00/main.cpp > CMakeFiles/00.dir/Module04/ex00/main.cpp.i
+CMakeFiles/00.dir/Module04/ex03/Character.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/00.dir/Module04/ex03/Character.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/fmint/CPP_Module/Module04/ex03/Character.cpp > CMakeFiles/00.dir/Module04/ex03/Character.cpp.i
 
-CMakeFiles/00.dir/Module04/ex00/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex00/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex00/main.cpp -o CMakeFiles/00.dir/Module04/ex00/main.cpp.s
+CMakeFiles/00.dir/Module04/ex03/Character.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/00.dir/Module04/ex03/Character.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/fmint/CPP_Module/Module04/ex03/Character.cpp -o CMakeFiles/00.dir/Module04/ex03/Character.cpp.s
 
 # Object files for target 00
 00_OBJECTS = \
-"CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o" \
-"CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o" \
-"CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o" \
-"CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o" \
-"CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o" \
-"CMakeFiles/00.dir/Module04/ex00/main.cpp.o"
+"CMakeFiles/00.dir/Module04/ex03/main.cpp.o" \
+"CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.o" \
+"CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.o" \
+"CMakeFiles/00.dir/Module04/ex03/Ice.cpp.o" \
+"CMakeFiles/00.dir/Module04/ex03/Cure.cpp.o" \
+"CMakeFiles/00.dir/Module04/ex03/Character.cpp.o"
 
 # External object files for target 00
 00_EXTERNAL_OBJECTS =
 
-00: CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o
-00: CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o
-00: CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o
-00: CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o
-00: CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o
-00: CMakeFiles/00.dir/Module04/ex00/main.cpp.o
+00: CMakeFiles/00.dir/Module04/ex03/main.cpp.o
+00: CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.o
+00: CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.o
+00: CMakeFiles/00.dir/Module04/ex03/Ice.cpp.o
+00: CMakeFiles/00.dir/Module04/ex03/Cure.cpp.o
+00: CMakeFiles/00.dir/Module04/ex03/Character.cpp.o
 00: CMakeFiles/00.dir/build.make
 00: CMakeFiles/00.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/fmint/CPP_Module/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable 00"

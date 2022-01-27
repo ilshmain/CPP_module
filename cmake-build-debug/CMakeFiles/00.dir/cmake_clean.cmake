@@ -1,12 +1,12 @@
 file(REMOVE_RECURSE
   "00"
   "00.pdb"
-  "CMakeFiles/00.dir/Module04/ex00/Animal.cpp.o"
-  "CMakeFiles/00.dir/Module04/ex00/Cat.cpp.o"
-  "CMakeFiles/00.dir/Module04/ex00/Dog.cpp.o"
-  "CMakeFiles/00.dir/Module04/ex00/WrongAnimal.cpp.o"
-  "CMakeFiles/00.dir/Module04/ex00/WrongCat.cpp.o"
-  "CMakeFiles/00.dir/Module04/ex00/main.cpp.o"
+  "CMakeFiles/00.dir/Module04/ex03/AMateria.cpp.o"
+  "CMakeFiles/00.dir/Module04/ex03/Character.cpp.o"
+  "CMakeFiles/00.dir/Module04/ex03/Cure.cpp.o"
+  "CMakeFiles/00.dir/Module04/ex03/Ice.cpp.o"
+  "CMakeFiles/00.dir/Module04/ex03/MateriaSource.cpp.o"
+  "CMakeFiles/00.dir/Module04/ex03/main.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
