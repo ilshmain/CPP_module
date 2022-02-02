@@ -35,7 +35,18 @@ set(CMAKE_CXX_STANDARD 98)
 #        Module03/ex002/ScavTrap.cpp
 #        Module03/ex002/ScavTrap.hpp)
 
-add_executable(00 Module04/ex03/main.cpp Module04/ex03/IMateriaSource.hpp Module04/ex03/ICharacter.hpp Module04/ex03/AMateria.cpp Module04/ex03/AMateria.hpp Module04/ex03/MateriaSource.cpp Module04/ex03/MateriaSource.hpp Module04/ex03/Ice.cpp Module04/ex03/Ice.hpp Module04/ex03/Cure.cpp Module04/ex03/Cure.hpp Module04/ex03/Character.cpp Module04/ex03/Character.hpp)
+add_executable(00   Module05/ex03/Bureaucrat.cpp
+                    Module05/ex03/Bureaucrat.hpp
+                    Module05/ex03/main.cpp
+                    Module05/ex03/Form.cpp
+                    Module05/ex03/Form.hpp
+                    Module05/ex03/ShrubberyCreationForm.cpp
+                    Module05/ex03/ShrubberyCreationForm.hpp
+                    Module05/ex03/RobotomyRequestForm.cpp
+                    Module05/ex03/RobotomyRequestForm.hpp
+                    Module05/ex03/PresidentialPardonForm.cpp
+                    Module05/ex03/PresidentialPardonForm.hpp
+                    Module05/ex03/Intern.cpp Module05/ex03/Intern.hpp)
 
 #add_executable(00
 #        Module04/ex02/Animal.cpp
