@@ -1,13 +1,8 @@
 file(REMOVE_RECURSE
   "00"
   "00.pdb"
-  "CMakeFiles/00.dir/Module05/ex03/Bureaucrat.cpp.o"
-  "CMakeFiles/00.dir/Module05/ex03/Form.cpp.o"
-  "CMakeFiles/00.dir/Module05/ex03/Intern.cpp.o"
-  "CMakeFiles/00.dir/Module05/ex03/PresidentialPardonForm.cpp.o"
-  "CMakeFiles/00.dir/Module05/ex03/RobotomyRequestForm.cpp.o"
-  "CMakeFiles/00.dir/Module05/ex03/ShrubberyCreationForm.cpp.o"
-  "CMakeFiles/00.dir/Module05/ex03/main.cpp.o"
+  "CMakeFiles/00.dir/Module08/ex02/MutantStack.cpp.o"
+  "CMakeFiles/00.dir/Module08/ex02/main.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

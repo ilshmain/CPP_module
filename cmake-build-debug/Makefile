@@ -129,173 +129,53 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/build
 .PHONY : 00/fast
 
-Module05/ex03/Bureaucrat.o: Module05/ex03/Bureaucrat.cpp.o
-.PHONY : Module05/ex03/Bureaucrat.o
+Module08/ex02/MutantStack.o: Module08/ex02/MutantStack.cpp.o
+.PHONY : Module08/ex02/MutantStack.o
 
 # target to build an object file
-Module05/ex03/Bureaucrat.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Bureaucrat.cpp.o
-.PHONY : Module05/ex03/Bureaucrat.cpp.o
+Module08/ex02/MutantStack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module08/ex02/MutantStack.cpp.o
+.PHONY : Module08/ex02/MutantStack.cpp.o
 
-Module05/ex03/Bureaucrat.i: Module05/ex03/Bureaucrat.cpp.i
-.PHONY : Module05/ex03/Bureaucrat.i
+Module08/ex02/MutantStack.i: Module08/ex02/MutantStack.cpp.i
+.PHONY : Module08/ex02/MutantStack.i
 
 # target to preprocess a source file
-Module05/ex03/Bureaucrat.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Bureaucrat.cpp.i
-.PHONY : Module05/ex03/Bureaucrat.cpp.i
+Module08/ex02/MutantStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module08/ex02/MutantStack.cpp.i
+.PHONY : Module08/ex02/MutantStack.cpp.i
 
-Module05/ex03/Bureaucrat.s: Module05/ex03/Bureaucrat.cpp.s
-.PHONY : Module05/ex03/Bureaucrat.s
+Module08/ex02/MutantStack.s: Module08/ex02/MutantStack.cpp.s
+.PHONY : Module08/ex02/MutantStack.s
 
 # target to generate assembly for a file
-Module05/ex03/Bureaucrat.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Bureaucrat.cpp.s
-.PHONY : Module05/ex03/Bureaucrat.cpp.s
+Module08/ex02/MutantStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module08/ex02/MutantStack.cpp.s
+.PHONY : Module08/ex02/MutantStack.cpp.s
 
-Module05/ex03/Form.o: Module05/ex03/Form.cpp.o
-.PHONY : Module05/ex03/Form.o
+Module08/ex02/main.o: Module08/ex02/main.cpp.o
+.PHONY : Module08/ex02/main.o
 
 # target to build an object file
-Module05/ex03/Form.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Form.cpp.o
-.PHONY : Module05/ex03/Form.cpp.o
+Module08/ex02/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module08/ex02/main.cpp.o
+.PHONY : Module08/ex02/main.cpp.o
 
-Module05/ex03/Form.i: Module05/ex03/Form.cpp.i
-.PHONY : Module05/ex03/Form.i
-
-# target to preprocess a source file
-Module05/ex03/Form.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Form.cpp.i
-.PHONY : Module05/ex03/Form.cpp.i
-
-Module05/ex03/Form.s: Module05/ex03/Form.cpp.s
-.PHONY : Module05/ex03/Form.s
-
-# target to generate assembly for a file
-Module05/ex03/Form.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Form.cpp.s
-.PHONY : Module05/ex03/Form.cpp.s
-
-Module05/ex03/Intern.o: Module05/ex03/Intern.cpp.o
-.PHONY : Module05/ex03/Intern.o
-
-# target to build an object file
-Module05/ex03/Intern.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Intern.cpp.o
-.PHONY : Module05/ex03/Intern.cpp.o
-
-Module05/ex03/Intern.i: Module05/ex03/Intern.cpp.i
-.PHONY : Module05/ex03/Intern.i
+Module08/ex02/main.i: Module08/ex02/main.cpp.i
+.PHONY : Module08/ex02/main.i
 
 # target to preprocess a source file
-Module05/ex03/Intern.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Intern.cpp.i
-.PHONY : Module05/ex03/Intern.cpp.i
+Module08/ex02/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module08/ex02/main.cpp.i
+.PHONY : Module08/ex02/main.cpp.i
 
-Module05/ex03/Intern.s: Module05/ex03/Intern.cpp.s
-.PHONY : Module05/ex03/Intern.s
-
-# target to generate assembly for a file
-Module05/ex03/Intern.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/Intern.cpp.s
-.PHONY : Module05/ex03/Intern.cpp.s
-
-Module05/ex03/PresidentialPardonForm.o: Module05/ex03/PresidentialPardonForm.cpp.o
-.PHONY : Module05/ex03/PresidentialPardonForm.o
-
-# target to build an object file
-Module05/ex03/PresidentialPardonForm.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/PresidentialPardonForm.cpp.o
-.PHONY : Module05/ex03/PresidentialPardonForm.cpp.o
-
-Module05/ex03/PresidentialPardonForm.i: Module05/ex03/PresidentialPardonForm.cpp.i
-.PHONY : Module05/ex03/PresidentialPardonForm.i
-
-# target to preprocess a source file
-Module05/ex03/PresidentialPardonForm.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/PresidentialPardonForm.cpp.i
-.PHONY : Module05/ex03/PresidentialPardonForm.cpp.i
-
-Module05/ex03/PresidentialPardonForm.s: Module05/ex03/PresidentialPardonForm.cpp.s
-.PHONY : Module05/ex03/PresidentialPardonForm.s
+Module08/ex02/main.s: Module08/ex02/main.cpp.s
+.PHONY : Module08/ex02/main.s
 
 # target to generate assembly for a file
-Module05/ex03/PresidentialPardonForm.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/PresidentialPardonForm.cpp.s
-.PHONY : Module05/ex03/PresidentialPardonForm.cpp.s
-
-Module05/ex03/RobotomyRequestForm.o: Module05/ex03/RobotomyRequestForm.cpp.o
-.PHONY : Module05/ex03/RobotomyRequestForm.o
-
-# target to build an object file
-Module05/ex03/RobotomyRequestForm.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/RobotomyRequestForm.cpp.o
-.PHONY : Module05/ex03/RobotomyRequestForm.cpp.o
-
-Module05/ex03/RobotomyRequestForm.i: Module05/ex03/RobotomyRequestForm.cpp.i
-.PHONY : Module05/ex03/RobotomyRequestForm.i
-
-# target to preprocess a source file
-Module05/ex03/RobotomyRequestForm.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/RobotomyRequestForm.cpp.i
-.PHONY : Module05/ex03/RobotomyRequestForm.cpp.i
-
-Module05/ex03/RobotomyRequestForm.s: Module05/ex03/RobotomyRequestForm.cpp.s
-.PHONY : Module05/ex03/RobotomyRequestForm.s
-
-# target to generate assembly for a file
-Module05/ex03/RobotomyRequestForm.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/RobotomyRequestForm.cpp.s
-.PHONY : Module05/ex03/RobotomyRequestForm.cpp.s
-
-Module05/ex03/ShrubberyCreationForm.o: Module05/ex03/ShrubberyCreationForm.cpp.o
-.PHONY : Module05/ex03/ShrubberyCreationForm.o
-
-# target to build an object file
-Module05/ex03/ShrubberyCreationForm.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/ShrubberyCreationForm.cpp.o
-.PHONY : Module05/ex03/ShrubberyCreationForm.cpp.o
-
-Module05/ex03/ShrubberyCreationForm.i: Module05/ex03/ShrubberyCreationForm.cpp.i
-.PHONY : Module05/ex03/ShrubberyCreationForm.i
-
-# target to preprocess a source file
-Module05/ex03/ShrubberyCreationForm.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/ShrubberyCreationForm.cpp.i
-.PHONY : Module05/ex03/ShrubberyCreationForm.cpp.i
-
-Module05/ex03/ShrubberyCreationForm.s: Module05/ex03/ShrubberyCreationForm.cpp.s
-.PHONY : Module05/ex03/ShrubberyCreationForm.s
-
-# target to generate assembly for a file
-Module05/ex03/ShrubberyCreationForm.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/ShrubberyCreationForm.cpp.s
-.PHONY : Module05/ex03/ShrubberyCreationForm.cpp.s
-
-Module05/ex03/main.o: Module05/ex03/main.cpp.o
-.PHONY : Module05/ex03/main.o
-
-# target to build an object file
-Module05/ex03/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/main.cpp.o
-.PHONY : Module05/ex03/main.cpp.o
-
-Module05/ex03/main.i: Module05/ex03/main.cpp.i
-.PHONY : Module05/ex03/main.i
-
-# target to preprocess a source file
-Module05/ex03/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/main.cpp.i
-.PHONY : Module05/ex03/main.cpp.i
-
-Module05/ex03/main.s: Module05/ex03/main.cpp.s
-.PHONY : Module05/ex03/main.s
-
-# target to generate assembly for a file
-Module05/ex03/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module05/ex03/main.cpp.s
-.PHONY : Module05/ex03/main.cpp.s
+Module08/ex02/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/00.dir/build.make CMakeFiles/00.dir/Module08/ex02/main.cpp.s
+.PHONY : Module08/ex02/main.cpp.s
 
 # Help Target
 help:
@@ -306,27 +186,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 00"
-	@echo "... Module05/ex03/Bureaucrat.o"
-	@echo "... Module05/ex03/Bureaucrat.i"
-	@echo "... Module05/ex03/Bureaucrat.s"
-	@echo "... Module05/ex03/Form.o"
-	@echo "... Module05/ex03/Form.i"
-	@echo "... Module05/ex03/Form.s"
-	@echo "... Module05/ex03/Intern.o"
-	@echo "... Module05/ex03/Intern.i"
-	@echo "... Module05/ex03/Intern.s"
-	@echo "... Module05/ex03/PresidentialPardonForm.o"
-	@echo "... Module05/ex03/PresidentialPardonForm.i"
-	@echo "... Module05/ex03/PresidentialPardonForm.s"
-	@echo "... Module05/ex03/RobotomyRequestForm.o"
-	@echo "... Module05/ex03/RobotomyRequestForm.i"
-	@echo "... Module05/ex03/RobotomyRequestForm.s"
-	@echo "... Module05/ex03/ShrubberyCreationForm.o"
-	@echo "... Module05/ex03/ShrubberyCreationForm.i"
-	@echo "... Module05/ex03/ShrubberyCreationForm.s"
-	@echo "... Module05/ex03/main.o"
-	@echo "... Module05/ex03/main.i"
-	@echo "... Module05/ex03/main.s"
+	@echo "... Module08/ex02/MutantStack.o"
+	@echo "... Module08/ex02/MutantStack.i"
+	@echo "... Module08/ex02/MutantStack.s"
+	@echo "... Module08/ex02/main.o"
+	@echo "... Module08/ex02/main.i"
+	@echo "... Module08/ex02/main.s"
 .PHONY : help
 
 

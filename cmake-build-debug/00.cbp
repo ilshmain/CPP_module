@@ -80,43 +80,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/Bureaucrat.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module08/ex02/MutantStack.cpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/Bureaucrat.hpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module08/ex02/MutantStack.hpp">
 			<Option target="00"/>
 		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/Form.cpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/Form.hpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/Intern.cpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/Intern.hpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/PresidentialPardonForm.cpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/PresidentialPardonForm.hpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/RobotomyRequestForm.cpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/RobotomyRequestForm.hpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/ShrubberyCreationForm.cpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/ShrubberyCreationForm.hpp">
-			<Option target="00"/>
-		</Unit>
-		<Unit filename="/Users/fmint/CPP_Module/Module05/ex03/main.cpp">
+		<Unit filename="/Users/fmint/CPP_Module/Module08/ex02/main.cpp">
 			<Option target="00"/>
 		</Unit>
 		<Unit filename="/Users/fmint/CPP_Module/CMakeLists.txt">
